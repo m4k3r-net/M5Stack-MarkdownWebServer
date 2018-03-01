@@ -1,0 +1,67 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,300);
+
+body
+{
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	color: #444;
+	font-size: 1em;
+	max-width: 80%;
+}
+
+img 
+{
+	border-radius: 5px;
+	max-width: 90%;
+}
+
+a,
+a:visited 
+{
+	color: rgb(0, 128, 255);
+}
+
+a:hover,
+a:focus,
+a:active
+{
+	color: rgb(0, 162, 232);
+}
+
+h1,
+h2,
+h3
+{
+	margin: 0;
+}
+
+h1
+{
+	font-size: 4em;
+}
+
+h2
+{
+	font-size: 3em;
+}
+
+h3
+{
+	font-size: 2em;
+}
+
+pre
+{
+	background-color: rgb(240, 250, 250);
+	padding: 1em;
+	text-align: left;
+}
+
+blockquote
+{
+	margin: 0;
+	border-left: 5px solid rgb(0, 162, 232);
+	font-style: italic;
+	font-size: 1em;
+	padding: 1em;
+	text-align: left;
+}	
