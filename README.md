@@ -1,19 +1,27 @@
-# M5Stack-MarkdownWebServer
+# M5Stack Markdown Web Server
 
-M5Stack web server 
+<br />
 
-The M5Stack serves a webpage created using markdown, advertises the webpage IP address & counts and displays the number of page views.
+- A web server for the M5Stack that uses markdown. 
 
-Features micro SD / TF card access to display icons on the M5Stack display that are stored on the micro SD / TF card. 
+- The web server advertises the webpage IP address & counts and displays the number of page views.
 
-Sourced from the M5Stack Community Forum - listed under the "News and Lessons" section.
+- Features micro SD / TF card access to display icons on the M5Stack display that are stored on the micro SD / TF card. 
 
-With credit to Dimi.
+- Sourced from the M5Stack Community Forum [here](http://forum.m5stack.com/topic/110/lesson-5-tf-markdown-web-server/2)
 
-http://forum.m5stack.com/topic/110/lesson-5-tf-markdown-web-server/2
-<br />  
-<br />   
-![](Screenshot-01.png?raw=true) 
+- With credit to Dimi.
+
 <br />  
 <br />  
-![](Screenshot-02.png?raw=true) 
+
+<p align="center">
+<img src="https://github.com/PartsandCircuits/M5Stack-MarkdownWebServer/blob/master/Screenshot-01.png" width="450">
+</p>
+
+<br />  
+<br />  
+
+<p align="center">
+<img src="https://github.com/PartsandCircuits/M5Stack-MarkdownWebServer/blob/master/Screenshot-02.png" width="600">
+</p>
