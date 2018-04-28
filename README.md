@@ -12,7 +12,7 @@
 
 - A web server for the M5Stack that uses markdown text. 
 
-- The web server advertises the webpage IP address, counts and then displays the number of page views.
+- The web server advertises the webpage IP address. It counts and displays the number of web page views.
 
 - Features micro SD / TF card access to display icons on the M5Stack display that are stored on the micro SD / TF card. 
 
