@@ -16,6 +16,8 @@
 
 - Features micro SD / TF card access to display icons on the M5Stack display that are stored on the micro SD / TF card. 
 
+- The full project outline, linked at the bottom of this page, also shows how to make icons for on-screen display and how to convert them into C source files using the included program "Image to Code_59x59px".
+
 - With credit to Dimi.
 
 <br />  
