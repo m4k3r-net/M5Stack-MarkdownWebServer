@@ -25,7 +25,7 @@
 ## Requirements
 
 - 1x  Quality Micro SD card - 32 Gb size maximum.
-- Optional - A markdown editor such as "MarkDownPad2" for editing the markdown text.
+- Optional - A markdown editor such as "MarkDownPad2" for editing the markdown text. Only needed if you want to edit the text.
 
 <br />
 
